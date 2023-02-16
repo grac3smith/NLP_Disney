@@ -1,2 +1,2 @@
 # NLP_Disney
-This repository contains my coding for Natural Language Processing a Disney World Trip Advisor review dataset.
+This repository contains python code where I employed NLP to gain insight into Disney World Trip Adivsor reviews.
